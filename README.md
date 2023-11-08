@@ -8,5 +8,5 @@ All in one token getter developed by: Mahîro chan &amp; Shiki Machina - NOT FOR
 
 # How to use the script?
 ```python
-pip install pycryptodome; python3 token.py
+pip install pycryptodome; pip install requests; python3 token.py
 ```
